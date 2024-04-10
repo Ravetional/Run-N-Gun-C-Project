@@ -7,5 +7,5 @@ Projekt obejmował stworzenie gry typu run n gun inspirowanej serią gier Contra
 Restricted.
 
 ## Autorzy
-Adam Czubak
+Adam Czubak <br />
 Sebastian Michalski
